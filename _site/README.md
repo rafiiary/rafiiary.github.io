@@ -1,8 +1,4 @@
----
-layout: page
-title: About
-permalink: /about/
----
+# Arya Rafii
 <img src="image.jpg" alt="drawing" width="200"/>
 
 ## Currently
