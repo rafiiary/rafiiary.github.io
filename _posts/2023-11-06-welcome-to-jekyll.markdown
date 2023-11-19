@@ -1,25 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-11-06 14:53:39 -0500
-categories: jekyll update
+title:  "Why am I doing this?"
+date:   2023-11-18
+categories: Misc
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+In my very first post, I want to talk a little bit about why I have decided to make this website. So here it goes:
 
-Jekyll also offers powerful support for code snippets:
+I often find myself thinking about different concepts and having conversations in my own head. Most of the time, I do this because there is something that is not quite clear in my mind. So I question why I believe certain things and then try to come up with explanations for them. These things could be academic or work related, but it could also be philosophical and quite personal. Usually, my opinions and beliefs change through this process and I end up with a much more clear and cohesive vision of what I believe and (more importantly) why I believe the things I do.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Unfortunately, the human memory (at least mine) is not as capable as that of a computer. Therefore, even though my core understandings might subconsciously stick around, I forget most of my detailed thoughts a few months later.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+I'm hoping this website will change that. First of all it will help me organise my thoughts through thorough thinking and self-conversing (and written communication in posts). Second, it allows me to keep these understandings and beliefs in a centralized place into which I can tap (and laugh at my past stupidity once in a while).
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I want to make it clear that all my opinions on here will be my own and will never reflect any institutions or companies with which I am affiliated.
+
+If for some reason, you are reading this now, I am both surprised and honored.
+
+Welcome, and I hope in some way, this is also beneficial for you :)
+
+Arya
