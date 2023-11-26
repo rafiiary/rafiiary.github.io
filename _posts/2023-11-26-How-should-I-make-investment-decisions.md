@@ -2,7 +2,7 @@
 layout: post
 title:  "How I Approach Investments"
 date:   2023-11-26
-categories: Programming Languages
+categories: Misc
 ---
 
 Recently, I had a conversation with two dear friends of mine about investments and as expected in 2023, the topic of cryptocurrencies came up. I was pleased to find out that none of us had ever invested in crypto. This made me think deeper about how I make investment decisions and I think it's an interesting topic so I'm writing about it on here.
